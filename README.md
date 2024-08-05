@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá! Eu sou o Bruno<br><br><br><br>🎓 Formação:<br><br>- Cursando Análise e Desenvolvimento de Sistemas na IBMR.<br>- Certificado AWS Cloud Practitioner.<br><br>📚 Atualmente Aprendendo:<br><br>Desenvolvimento Full Stack com Python pelo curso da EBAC<br><br>💡 Interesses:<br><br>- Desenvolvimento Web<br>- Cloud Computing<br>- Contribuição para projetos open source e aprendizado contínuo</p>
+<p align="left">👋 Olá! Eu sou o Bruno<br><br>🎓 Formação:<br><br>- Cursando Análise e Desenvolvimento de Sistemas na IBMR.<br>- Certificado AWS Cloud Practitioner.<br><br>📚 Atualmente Aprendendo:<br><br>Desenvolvimento Full Stack com Python pelo curso da EBAC<br><br>💡 Interesses:<br><br>- Desenvolvimento Web<br>- Cloud Computing<br>- Contribuição para projetos open source e aprendizado contínuo</p>
 
 ###
 
