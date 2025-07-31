@@ -2,7 +2,17 @@
 
 ###
 
-<p align="left">👋 Olá! Eu sou o Bruno<br><br>🎓 Formação:<br><br>- Cursando Análise e Desenvolvimento de Sistemas na IBMR.<br>- Certificado AWS Cloud Practitioner.<br><br>📚 Atualmente Aprendendo:<br><br>Desenvolvimento Full Stack com Python<br><br>💡 Interesses:<br><br>- Desenvolvimento Web<br>- Cloud Computing<br>- Contribuição para projetos open source e aprendizado contínuo</p>
+<p align="left">
+  👋 Olá! Eu sou o Bruno<br><br>
+
+  💻 Desenvolvedor Frontend com foco em criar interfaces modernas, funcionais e bem estruturadas.<br><br>
+
+  🎓 Graduado em Análise e Desenvolvimento de Sistemas, certificado AWS Cloud Practitioner e atualmente cursando Full Stack Python pela EBAC.<br><br>
+
+  🚀 Experiência com React, Vue.js, TypeScript, Redux, Styled-components, integração com APIs REST e testes com Cypress.<br><br>
+
+  🌱 Curioso, autodidata e apaixonado por tecnologia, estou sempre aprimorando minhas habilidades e compartilhando projetos no GitHub.
+</p>
 
 ###
 
@@ -22,7 +32,6 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white&style=for-the-badge" height="40" alt="less logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Grunt-FAA918?logo=grunt&logoColor=black&style=for-the-badge" height="40" alt="grunt logo"  />
 </div>
 
