@@ -1,6 +1,4 @@
-<h2 align="left">About Me</h2>
-
- # Olá! Sou o Bruno Bragança 👋
+# Olá! Sou o Bruno Bragança 👋
 
 ### Software Developer | React, Vue & Python | AWS Cloud Practitioner ☁️
 
@@ -10,15 +8,15 @@ Meu objetivo é dominar o ciclo completo de desenvolvimento, desde a arquitetura
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 
-#### Frontend & Interfaces
+#### Frontend & UI
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
 
-#### Backend & Dados
+#### Backend & Data
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
@@ -31,11 +29,21 @@ Meu objetivo é dominar o ciclo completo de desenvolvimento, desde a arquitetura
 
 ---
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bruno-Braganca-Fernandes&theme=dracula" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Braganca-Fernandes&theme=dracula" alt="Profile Details" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bruno-Braganca-Fernandes&theme=dracula" alt="Repos por Linguagem" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bruno-Braganca-Fernandes&theme=dracula" alt="Linguagens mais commitadas" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Braganca-Fernandes&theme=dracula" alt="Detalhes do Perfil" />
 </div>
 
 ---
@@ -47,10 +55,13 @@ Meu objetivo é dominar o ciclo completo de desenvolvimento, desde a arquitetura
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruno-bragança-fernandes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:bruno.b.fernandes12@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/-Email-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
 </div>
+
+
+
 
