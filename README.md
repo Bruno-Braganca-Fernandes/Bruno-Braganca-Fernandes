@@ -46,11 +46,11 @@ Meu objetivo é dominar o ciclo completo de desenvolvimento, desde a arquitetura
 * 🔭 Criando projetos com arquitetura limpa e testes automatizados.
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/bruno-braganca-fernandes" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-bragança-fernandes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:bruno.b.fernandes12@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email Badge">
   </a>
 </div>
 
