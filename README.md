@@ -18,11 +18,11 @@ Meu objetivo é dominar o ciclo completo de desenvolvimento, desde a arquitetura
 
 #### Backend & Data
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 #### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white&v=2)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
